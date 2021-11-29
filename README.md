@@ -2,6 +2,8 @@
 ## A (broken) app that uses GraphQL and MongoDB
 ![image](https://github.com/Pfizzz/book-search-final/blob/855a947851bed66cdf3752c4e04c508e58c8b14f/images/ss1.png)
 
+This project was an attempt to replace a RESTful API framework with GraphQl, with mixed results.
+
 ## What works:
 * Back-end typeDefs are finished, some resolvers have full-functionality
 * Authentication is fully-functional
