@@ -5,6 +5,7 @@
 This project was an attempt to replace a RESTful API framework with GraphQl, with mixed results.
 
 ## What works:
+* Apollo has been successfully integrated into the back-end.
 * Back-end typeDefs are finished, some resolvers have full-functionality
 * Authentication is fully-functional
 * addUser creates a new user with a hashed password, and returns a JSON web token
